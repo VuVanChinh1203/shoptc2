@@ -47,23 +47,17 @@ php artisan migrate --seed
 php artisan serve
 
 ```
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 104743.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 104952.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105101.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105310.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105414.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105527.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105628.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105702.png")
-
-![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105728.png")
+<p align="center">
+    <img src="imgrm/anh1.png" alt="Log in screen" >
+    <img src="imgrm/anh2.png" alt="Forgot password screen" >
+    <img src="imgrm/anh3.png" alt="Email password reset link screen" >
+    <img src="imgrm/anh4.png" alt="Log in screen" >
+    <img src="imgrm/anh5.png" alt="Log in screen" >
+    <img src="imgrm/anh6.png" alt="Log in screen" >
+    <img src="imgrm/anh7.png" alt="Log in screen" >
+    <img src="imgrm/anh8.png" alt="Log in screen" >
+    <img src="imgrm/anh9.png" alt="Log in screen" >
+</p>
 
 
 ## 🌐 Link quan trọng
