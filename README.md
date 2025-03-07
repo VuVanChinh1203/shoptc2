@@ -45,7 +45,26 @@ php artisan migrate --seed
 
 # Chạy server Laravel
 php artisan serve
+
 ```
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 104743.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 104952.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105101.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105310.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105414.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105527.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105628.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105702.png")
+
+![Sơ đồ hệ thống]("C:\Users\badao\shopthucung_laravel\shopthucung_laravel\imgrm\Ảnh chụp màn hình 2025-03-07 105728.png")
+
 
 ## 🌐 Link quan trọng
 
